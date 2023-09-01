@@ -817,10 +817,7 @@ int main(int, char**)
 
             if (ImGui::Button("Load")) {
                 
-            }
-            
-            
-            
+            }      
 
             ImGui::End();
         }
