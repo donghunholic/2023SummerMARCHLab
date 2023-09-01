@@ -1,0 +1,491 @@
+<?xml version="1.0"?>
+<TcEventSources Version="2">
+	<Source>
+		<GUID>{28111931-00FB-0000-0000-506400007001}</GUID>
+		<Name LcId="1033">EPOS4 70/15 EtherCAT</Name>
+		<Event>
+			<Id>0</Id>
+			<Message LcId="1033">None</Message>
+		</Event>
+		<Event>
+			<Id>4096</Id>
+			<Message LcId="1033">Generic error</Message>
+		</Event>
+		<Event>
+			<Id>4224</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4225</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4226</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4227</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4228</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4229</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4230</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4231</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4232</Id>
+			<Message LcId="1033">Generic initialisation error</Message>
+		</Event>
+		<Event>
+			<Id>4240</Id>
+			<Message LcId="1033">Firmware incompatibility error</Message>
+		</Event>
+		<Event>
+			<Id>8976</Id>
+			<Message LcId="1033">Overcurrent error</Message>
+		</Event>
+		<Event>
+			<Id>8992</Id>
+			<Message LcId="1033">Power stage protection error</Message>
+		</Event>
+		<Event>
+			<Id>12816</Id>
+			<Message LcId="1033">Overvoltage error</Message>
+		</Event>
+		<Event>
+			<Id>12832</Id>
+			<Message LcId="1033">Undervoltage error</Message>
+		</Event>
+		<Event>
+			<Id>16912</Id>
+			<Message LcId="1033">Thermal overload error</Message>
+		</Event>
+		<Event>
+			<Id>17280</Id>
+			<Message LcId="1033">Thermal motor overload error</Message>
+		</Event>
+		<Event>
+			<Id>20755</Id>
+			<Message LcId="1033">Logic supply voltage too low error</Message>
+		</Event>
+		<Event>
+			<Id>21120</Id>
+			<Message LcId="1033">Hardware defect error</Message>
+		</Event>
+		<Event>
+			<Id>21121</Id>
+			<Message LcId="1033">Hardware incompatibility error</Message>
+		</Event>
+		<Event>
+			<Id>21632</Id>
+			<Message LcId="1033">Hardware error</Message>
+		</Event>
+		<Event>
+			<Id>21633</Id>
+			<Message LcId="1033">Hardware error</Message>
+		</Event>
+		<Event>
+			<Id>21634</Id>
+			<Message LcId="1033">Hardware error</Message>
+		</Event>
+		<Event>
+			<Id>21635</Id>
+			<Message LcId="1033">Hardware error</Message>
+		</Event>
+		<Event>
+			<Id>24704</Id>
+			<Message LcId="1033">Sign of Life error</Message>
+		</Event>
+		<Event>
+			<Id>24705</Id>
+			<Message LcId="1033">Extension 1 Watchdog error</Message>
+		</Event>
+		<Event>
+			<Id>24960</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24961</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24962</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24963</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24964</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24965</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24966</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24967</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24968</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24969</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24971</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24972</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24973</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24974</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24975</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24976</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24977</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24992</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24993</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24994</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24995</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24996</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24997</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>24998</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25008</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25009</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25010</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25011</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25012</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25013</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25056</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25057</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25058</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25059</Id>
+			<Message LcId="1033">Internal software error</Message>
+		</Event>
+		<Event>
+			<Id>25376</Id>
+			<Message LcId="1033">Software parameter error</Message>
+		</Event>
+		<Event>
+			<Id>25472</Id>
+			<Message LcId="1033">Persistent parameter corrupt error</Message>
+		</Event>
+		<Event>
+			<Id>29312</Id>
+			<Message LcId="1033">Current offset error</Message>
+		</Event>
+		<Event>
+			<Id>29472</Id>
+			<Message LcId="1033">Position sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29568</Id>
+			<Message LcId="1033">Position sensor breach error</Message>
+		</Event>
+		<Event>
+			<Id>29569</Id>
+			<Message LcId="1033">Position sensor resolution error</Message>
+		</Event>
+		<Event>
+			<Id>29570</Id>
+			<Message LcId="1033">Position sensor index error</Message>
+		</Event>
+		<Event>
+			<Id>29576</Id>
+			<Message LcId="1033">Hall sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29577</Id>
+			<Message LcId="1033">Hall sensor not found error</Message>
+		</Event>
+		<Event>
+			<Id>29578</Id>
+			<Message LcId="1033">Hall angle detection error</Message>
+		</Event>
+		<Event>
+			<Id>29579</Id>
+			<Message LcId="1033">BiSS sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29580</Id>
+			<Message LcId="1033">SSI sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29581</Id>
+			<Message LcId="1033">SSI sensor frame error</Message>
+		</Event>
+		<Event>
+			<Id>29584</Id>
+			<Message LcId="1033">Missing main sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29585</Id>
+			<Message LcId="1033">Missing commutation sensor error</Message>
+		</Event>
+		<Event>
+			<Id>29586</Id>
+			<Message LcId="1033">Main sensor direction error</Message>
+		</Event>
+		<Event>
+			<Id>33040</Id>
+			<Message LcId="1033">CAN overrun error (object lost)</Message>
+		</Event>
+		<Event>
+			<Id>33041</Id>
+			<Message LcId="1033">CAN overrun error</Message>
+		</Event>
+		<Event>
+			<Id>33056</Id>
+			<Message LcId="1033">CAN passive mode error</Message>
+		</Event>
+		<Event>
+			<Id>33072</Id>
+			<Message LcId="1033">CAN heartbeat error</Message>
+		</Event>
+		<Event>
+			<Id>33104</Id>
+			<Message LcId="1033">CAN PDO COB-ID collision</Message>
+		</Event>
+		<Event>
+			<Id>33152</Id>
+			<Message LcId="1033">EtherCAT communication error</Message>
+		</Event>
+		<Event>
+			<Id>33153</Id>
+			<Message LcId="1033">EtherCAT initialization error</Message>
+		</Event>
+		<Event>
+			<Id>33154</Id>
+			<Message LcId="1033">EtherCAT Rx queue overflow</Message>
+		</Event>
+		<Event>
+			<Id>33155</Id>
+			<Message LcId="1033">EtherCAT communication error</Message>
+		</Event>
+		<Event>
+			<Id>33156</Id>
+			<Message LcId="1033">EtherCAT communication error cycle time error</Message>
+		</Event>
+		<Event>
+			<Id>33160</Id>
+			<Message LcId="1033">USB communication error</Message>
+		</Event>
+		<Event>
+			<Id>33277</Id>
+			<Message LcId="1033">CAN bus turned off</Message>
+		</Event>
+		<Event>
+			<Id>33278</Id>
+			<Message LcId="1033">CAN Rx queue overflow</Message>
+		</Event>
+		<Event>
+			<Id>33279</Id>
+			<Message LcId="1033">CAN Tx queue overflow</Message>
+		</Event>
+		<Event>
+			<Id>33296</Id>
+			<Message LcId="1033">CAN PDO length error</Message>
+		</Event>
+		<Event>
+			<Id>33360</Id>
+			<Message LcId="1033">RPDO timeout</Message>
+		</Event>
+		<Event>
+			<Id>33408</Id>
+			<Message LcId="1033">EtherCAT PDO communication error</Message>
+		</Event>
+		<Event>
+			<Id>33409</Id>
+			<Message LcId="1033">EtherCAT SDO communication error</Message>
+		</Event>
+		<Event>
+			<Id>33585</Id>
+			<Message LcId="1033">Torque fault</Message>
+		</Event>
+		<Event>
+			<Id>34321</Id>
+			<Message LcId="1033">Following error</Message>
+		</Event>
+		<Event>
+			<Id>35456</Id>
+			<Message LcId="1033">Negative limit switch error</Message>
+		</Event>
+		<Event>
+			<Id>35457</Id>
+			<Message LcId="1033">Positive limit switch error</Message>
+		</Event>
+		<Event>
+			<Id>35458</Id>
+			<Message LcId="1033">Software position limit error</Message>
+		</Event>
+		<Event>
+			<Id>35459</Id>
+			<Message LcId="1033">Max speed error</Message>
+		</Event>
+		<Event>
+			<Id>35464</Id>
+			<Message LcId="1033">STO error</Message>
+		</Event>
+		<Event>
+			<Id>65281</Id>
+			<Message LcId="1033">System overloaded error</Message>
+		</Event>
+		<Event>
+			<Id>65282</Id>
+			<Message LcId="1033">Watchdog error</Message>
+		</Event>
+		<Event>
+			<Id>65291</Id>
+			<Message LcId="1033">System peak overloaded error</Message>
+		</Event>
+		<Event>
+			<Id>65296</Id>
+			<Message LcId="1033">Controller gain error</Message>
+		</Event>
+		<Event>
+			<Id>65297</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65298</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65299</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65300</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65301</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65302</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65303</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65305</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65312</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65313</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65314</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65315</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65316</Id>
+			<Message LcId="1033">Auto tuning identification error</Message>
+		</Event>
+		<Event>
+			<Id>65535</Id>
+			<Message LcId="1033">Last dummy error</Message>
+		</Event>
+		<Property>
+			<Name>DisplayTxtId</Name>
+			<Value>true</Value>
+		</Property>
+	</Source>
+</TcEventSources>
